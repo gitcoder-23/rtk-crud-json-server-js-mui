@@ -22,11 +22,18 @@
       "contact": "4567456789"
     },
     {
-      "id": "e18f3038-c7ab-46fa-8e19-1f9ca1faed71",
-      "name": "Liza Gommz",
-      "address": "Mexico",
-      "email": "liza@gmail.com",
-      "contact": "64558467474"
+      "id": "93433b28-07f2-4220-9334-fa25e1b02904",
+      "name": "Margaret",
+      "address": "London",
+      "email": "margaret@yahoo.com",
+      "contact": "9876454645"
+    },
+    {
+      "id": "da576487-0a8d-4f69-918c-feb3e359c8c0",
+      "name": "Alita Ghoms",
+      "address": "Australia",
+      "email": "alitag@yahoo.com",
+      "contact": "7876454645"
     }
   ]
 }

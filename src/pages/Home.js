@@ -50,8 +50,8 @@ const Home = () => {
     // console.log('handleDelete', id);
     if (window.confirm('Do you want?')) {
       dispatch(deleteUser(id));
-      dispatch(getAllUsers());
     }
+    dispatch(getAllUsers());
   };
 
   useEffect(() => {
