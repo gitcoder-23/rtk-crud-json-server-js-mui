@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "17e6a64d-5e2e-4b07-9e3d-ac14c2fe703b",
+      "name": "Nicolas Cage Brandan",
+      "address": "Carolina",
+      "email": "nicolas@yahoo.com",
+      "contact": "54335456788"
+    },
+    {
+      "id": "17e6a64d-5e2e-4b07-sadjsh44dsa54d899",
+      "name": "Margaret",
+      "address": "Maxico",
+      "email": "margaret@yahoo.com",
+      "contact": "4567453456"
+    },
+    {
+      "id": "417e6aed-38cf-4ea3-8e9d-d08148aee17e",
+      "name": "James Bond",
+      "address": "New York",
+      "email": "james@yahoo.com",
+      "contact": "4567456789"
+    },
+    {
+      "id": "e18f3038-c7ab-46fa-8e19-1f9ca1faed71",
+      "name": "Liza Gommz",
+      "address": "Mexico",
+      "email": "liza@gmail.com",
+      "contact": "64558467474"
+    }
+  ]
+}
