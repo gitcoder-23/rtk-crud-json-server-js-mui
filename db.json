@@ -2,38 +2,38 @@
   "users": [
     {
       "id": "17e6a64d-5e2e-4b07-9e3d-ac14c2fe703b",
-      "name": "Nicolas Cage Brandan",
-      "address": "Carolina",
-      "email": "nicolas@yahoo.com",
-      "contact": "54335456788"
+      "name": "Nicolas Cage",
+      "address": "North Carolina",
+      "email": "nicolasc@yahoo.com",
+      "contact": "74335456788"
     },
     {
-      "id": "17e6a64d-5e2e-4b07-sadjsh44dsa54d899",
-      "name": "Margaret",
-      "address": "Maxico",
-      "email": "margaret@yahoo.com",
-      "contact": "4567453456"
-    },
-    {
-      "id": "417e6aed-38cf-4ea3-8e9d-d08148aee17e",
+      "id": "049fbf7b-dae0-4994-b8b0-59d7bf301001",
       "name": "James Bond",
-      "address": "New York",
-      "email": "james@yahoo.com",
-      "contact": "4567456789"
-    },
-    {
-      "id": "93433b28-07f2-4220-9334-fa25e1b02904",
-      "name": "Margaret",
       "address": "London",
-      "email": "margaret@yahoo.com",
-      "contact": "9876454645"
+      "email": "james@yahoo.com",
+      "contact": "9876543223"
     },
     {
-      "id": "da576487-0a8d-4f69-918c-feb3e359c8c0",
-      "name": "Alita Ghoms",
-      "address": "Australia",
-      "email": "alitag@yahoo.com",
-      "contact": "7876454645"
+      "id": "69425b92-9df6-4398-be0f-7838c91e7798",
+      "name": "Benedict Cumberbatch",
+      "address": "Howland",
+      "email": "ben@yahoo.com",
+      "contact": "9876543467"
+    },
+    {
+      "id": "1609bb51-642a-420b-a7e3-1dab43b49af2",
+      "name": "Silver Surfer White",
+      "address": "UK- London",
+      "email": "silverw@gmail.com",
+      "contact": "7876543213"
+    },
+    {
+      "id": "562bbb9c-ce6d-4693-8721-dfd0621a8d59",
+      "name": "Scarlet Jonshon",
+      "address": "Germany",
+      "email": "scarlet@gmail.com",
+      "contact": "8976543344"
     }
   ]
 }

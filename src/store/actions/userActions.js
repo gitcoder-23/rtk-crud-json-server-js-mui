@@ -3,9 +3,9 @@ import { RootApi } from '../../RootApi';
 import { useDispatch } from 'react-redux';
 
 export const getAllUsers = createAsyncThunk('users', async () => {
-  const response = await RootApi.get('/users');
+  const response = await RootApi.get(`/users`);
   // console.log('response', response);
-  return response.data;
+  return response.data.reverse();
 });
 
 export const getSingleUser = createAsyncThunk('singleuser', async (userId) => {
@@ -29,9 +29,9 @@ export const updateSingleUser = createAsyncThunk(
   }
 );
 
-export const deleteUser = createAsyncThunk('edituser', async (userId) => {
+export const deleteUser = createAsyncThunk('deleteuser', async (userId) => {
   const response = await RootApi.delete(`/users/${userId}`);
   // console.log('response', response);
-  useDispatch(getAllUsers());
+  // useDispatch(getAllUsers());
   return response.data;
 });
